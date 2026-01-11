@@ -1,0 +1,19 @@
+/* Thumbnail-Wrapper: nur Darstellung im Dokument */
+.vp-doc .thumbnail-300 {
+    max-height: 300px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.vp-doc figure {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.vp-doc figcaption {
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: 0.4rem;
+}

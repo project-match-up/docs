@@ -1,19 +1,48 @@
-# MatchUp – Projektdokumentation
+# MatchUp – Projektdokumentation 🎯
 
-## Ziel dieses Kapitels
-Diese Dokumentation beschreibt das Projekt MatchUp, seine Zielsetzung, Architektur und technische Umsetzung. Sie richtet sich an Studierende im ersten Semester sowie an Leser:innen ohne technischen Hintergrund.
+MatchUp ist eine Plattform, die es Freizeitsportler:innen ermöglicht, **ohne Registrierung** spontan oder geplant Mitspieler:innen für sportliche Aktivitäten zu finden.
+Die Nutzung folgt einem einfachen Prinzip:
 
-## Überblick
-<!-- Hier folgt eine verständliche Erklärung ohne Fachjargon (für Nicht-Techniker:innen)-->
+**Karte öffnen → Session auswählen → Mitspielen**
 
-## Technische Umsetzung
-<!-- Konkrete Implementierung im Projekt -->
+---
 
-## Daten & Abläufe
-<!-- Datenflüsse, Zustandsänderungen, API-Interaktionen -->
+## Aufbau der Dokumentation 🧭
 
-## Diagramme & Screenshots
-> 📌 Platzhalter für Diagramme und UI-Screenshots
+Die Dokumentation ist thematisch gegliedert:
 
-## Zusammenfassung
-<!-- Kernaussagen dieses Kapitels -->
+* **Projektübersicht**
+  Idee, Motivation und Nutzungskonzept von MatchUp
+* **Systemarchitektur**
+  Zusammenspiel von Frontend, Backend und Bot
+* **Daten & Abläufe**
+  Datenflüsse und Datenbankschema
+* **Zentrale Konzepte**
+  Wichtige Designentscheidungen und Prinzipien
+* **Repositories**
+  Struktur und Verantwortlichkeiten der Codebasen
+* **Future Work**
+  Mögliche Weiterentwicklungen und Optimierungen
+
+Die Navigation auf der linken Seite dient als **empfohlene Lesereihenfolge**.
+
+---
+
+## Technischer Überblick
+
+* **Frontend:** Flutter (Web & Mobile)
+* **Backend:** Laravel (REST API)
+* **Datenbank:** MySQL
+* **Karte & Geodaten:** OpenStreetMap
+* **Bots:** Telegram
+
+---
+
+## Hinweis zum Projektstand ℹ️
+
+Diese Dokumentation beschreibt den **aktuellen Implementierungsstand (Jänner 2026)** von MatchUp
+
+---
+
+➡️ **Empfohlener Einstieg:**
+Beginne mit der *Projektübersicht*, um ein inhaltliches Gesamtverständnis zu erhalten
