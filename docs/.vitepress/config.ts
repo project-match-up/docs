@@ -1,4 +1,7 @@
 export default {
+    head: [
+        ['link', { rel: 'icon', href: '/public/favicon.png' }]
+    ],
     themeConfig: {
         sidebar: [
             {

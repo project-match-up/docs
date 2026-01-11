@@ -1,4 +1,4 @@
-# MatchUp – Projektdokumentation 🎯
+# MatchUp – Projektdokumentation 
 
 MatchUp ist eine Plattform, die es Freizeitsportler:innen ermöglicht, **ohne Registrierung** spontan oder geplant Mitspieler:innen für sportliche Aktivitäten zu finden.
 Die Nutzung folgt einem einfachen Prinzip:
@@ -7,7 +7,7 @@ Die Nutzung folgt einem einfachen Prinzip:
 
 ---
 
-## Aufbau der Dokumentation 🧭
+## 🧭 Aufbau der Dokumentation 
 
 Die Dokumentation ist thematisch gegliedert:
 
@@ -28,7 +28,7 @@ Die Navigation auf der linken Seite dient als **empfohlene Lesereihenfolge**.
 
 ---
 
-## Technischer Überblick
+## 📊 Technischer Überblick
 
 * **Frontend:** Flutter (Web & Mobile)
 * **Backend:** Laravel (REST API)
@@ -38,11 +38,11 @@ Die Navigation auf der linken Seite dient als **empfohlene Lesereihenfolge**.
 
 ---
 
-## Hinweis zum Projektstand ℹ️
+## ℹ️ Hinweis zum Projektstand 
 
 Diese Dokumentation beschreibt den **aktuellen Implementierungsstand (Jänner 2026)** von MatchUp
 
 ---
 
-➡️ **Empfohlener Einstieg:**
+**Empfohlener Einstieg:**
 Beginne mit der *Projektübersicht*, um ein inhaltliches Gesamtverständnis zu erhalten
