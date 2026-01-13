@@ -1,6 +1,9 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+    base: '/',
     head: [
-        ['link', { rel: 'icon', href: '/public/favicon.png' }]
+        ['link', { rel: 'icon', href: '/favicon.png' }]
     ],
     themeConfig: {
         sidebar: [
@@ -42,4 +45,4 @@ export default {
             }
         ]
     }
-}
+})

@@ -5,8 +5,6 @@ Die Nutzung folgt einem einfachen Prinzip:
 
 **Karte öffnen → Session auswählen → Mitspielen**
 
----
-
 ## 🧭 Aufbau der Dokumentation 
 
 Die Dokumentation ist thematisch gegliedert:
@@ -26,8 +24,6 @@ Die Dokumentation ist thematisch gegliedert:
 
 Die Navigation auf der linken Seite dient als **empfohlene Lesereihenfolge**.
 
----
-
 ## 📊 Technischer Überblick
 
 * **Frontend:** Flutter (Web & Mobile)
@@ -36,13 +32,9 @@ Die Navigation auf der linken Seite dient als **empfohlene Lesereihenfolge**.
 * **Karte & Geodaten:** OpenStreetMap
 * **Bots:** Telegram
 
----
-
 ## ℹ️ Hinweis zum Projektstand 
 
 Diese Dokumentation beschreibt den **aktuellen Implementierungsstand (Jänner 2026)** von MatchUp
-
----
 
 **Empfohlener Einstieg:**
 Beginne mit der *Projektübersicht*, um ein inhaltliches Gesamtverständnis zu erhalten
