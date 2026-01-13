@@ -9,7 +9,6 @@ RUN npm ci
 COPY . .
 RUN npm run docs:build
 
-
 # ---------- Runtime Stage ----------
 FROM nginx:alpine
 
