@@ -50,7 +50,6 @@ docs/
 ├─ overview/        → Projektübersicht & Einführung
 ├─ architecture/    → Systemarchitektur (Frontend, Backend, Bot)
 ├─ data/            → Datenflüsse & Datenbankschema
-├─ concepts/        → Zentrale Konzepte & Designentscheidungen
 ├─ repositories/    → Repo-spezifische Dokumentation
 ├─ future/          → Future Work & Optimierungsideen
 └─ index.md         → Startseite

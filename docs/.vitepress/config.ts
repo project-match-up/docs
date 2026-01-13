@@ -22,14 +22,8 @@ export default {
             {
                 text: 'Daten',
                 items: [
-                    { text: 'Datenflüsse', link: '/data/data-flow' },
-                    { text: 'Datenbankschema', link: '/data/database-schema' }
-                ]
-            },
-            {
-                text: 'Konzepte',
-                items: [
-                    { text: 'Zentrale Konzepte', link: '/concepts/core-concepts' }
+                    { text: 'Datenbankschema', link: '/data/database-schema' },
+                    { text: 'Datenflüsse', link: '/data/data-flow' }
                 ]
             },
             {
