@@ -31,3 +31,4 @@ dist/
 *.swp
 *.swo
 docs/.vitepress/cache/
+dump.txt
