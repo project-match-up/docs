@@ -2,70 +2,78 @@
 
 ## 🚀 Warum MatchUp weiterführen?
 
-Hier geht es nicht um ein theoretisches Beispiel oder eine Wegwerf-App, sondern um eine Plattform, die ein **reales, gesellschaftliches Problem** adressiert:  
-Menschen wollen gemeinsam Sport machen – aber oft fehlt der einfache Weg, zusammenzufinden.
+Hier geht es um Situationen die sicher viele kennen:
 
-Wenn du MatchUp weiterentwickelst, arbeitest du an etwas, das **außerhalb der Universität relevant** ist und unmittelbaren Einfluss auf den Alltag anderer haben kann.
+- **Menschen, die neu in einer Stadt sind** und gerne Sport machen würden, aber noch niemanden kennen  
+- **Erasmus-Studierende**, die nur für ein Semester da sind und keinen Anschluss an bestehende Gruppen finden  
+- **Menschen, die alleine trainieren gehen**, obwohl sie lieber gemeinsam spielen würden, sich aber nicht trauen, andere anzusprechen  
+
+**MatchUp** setzt genau an diesen Momenten an.  
+Es schafft einen einfachen, unverbindlichen Weg, um zusammenzukommen – ohne soziale Hürden, ohne Verpflichtungen, ohne lange Vorbereitung.
+
+Wenn du MatchUp weiterentwickelst, arbeitest du an einem Projekt, das **außerhalb der Universität tatsächlich genutzt werden kann** und reale Alltagssituationen verbessert.
 
 ## 💡 Warum ist MatchUp für Studierende spannend?
 
-MatchUp ist ein Projekt, bei dem du **Gestaltungsspielraum** hast – fachlich, kreativ und konzeptionell.
+Du entwickelst nicht für eine Aufgabenstellung, sondern für Menschen mit echten Bedürfnissen. Dadurch wird jede Entscheidung greifbar:  
+Man merkt sofort, ob etwas funktioniert – oder nicht.
 
-Du kannst hier:
-- echte Nutzerprobleme verstehen und lösen
-- Ideen ausprobieren und direkt sehen, wie sie wirken
-- Entscheidungen treffen, die das Nutzererlebnis spürbar verändern
-- Verantwortung für ein wachsendes System übernehmen
+Für dich bedeutet das:
+- sichtbaren **Lerngewinn**, weil Entscheidungen echte Auswirkungen haben  
+- **Ownership**, da du ein bestehendes Projekt aktiv weiterprägst  
+- ein **vorzeigbares Projekt**, das man erklären kann, ohne Code zu zeigen  
+- ein Produkt, das man später präsentieren, weiterdenken oder ausbauen kann  
 
-Statt nur Anforderungen umzusetzen, kannst du **mitgestalten**, wie sich die Plattform anfühlt, wie sie genutzt wird und welchen Mehrwert sie bietet.
+MatchUp eignet sich besonders gut als Projekt, über das man sprechen kann – weil es **nah an der Lebensrealität** ist.
 
-## 🧍‍♀️Der menschliche Aspekt
+## 🧍‍♀️ Der menschliche Aspekt
 
-Im Kern geht es bei MatchUp nicht um Technik, sondern um **Menschen**:
-- um spontane Begegnungen
-- um Bewegung im Alltag
-- um niedrigschwellige soziale Interaktion
-- um das Nutzen öffentlicher Räume
+Im Kern geht es bei MatchUp nicht um Technik, sondern um **Begegnungen**.
 
-Viele Menschen möchten aktiv sein, trauen sich aber nicht, andere anzusprechen oder wissen nicht, wo sie anfangen sollen.  
-MatchUp senkt diese Hürde und schafft Gelegenheiten, bei denen sich Kontakte **ganz nebenbei** ergeben.
+Viele Menschen möchten aktiv sein, fühlen sich aber unsicher:
+- *„Kenne ich dort jemanden?“*
+- *„Bin ich gut genug?“*
+- *„Störe ich vielleicht?“*
 
-An diesem Punkt kannst **du** ansetzen und überlegen:
-- Wie fühlt sich der Einstieg an?
+MatchUp nimmt diesen Druck.  
+Man tritt einer Session bei, weil man Lust auf Sport hat – nicht, weil man Teil einer Gruppe sein muss. Kontakte entstehen **nebenbei**, ohne Erwartungshaltung.
+
+Hier kannst **du** ansetzen und überlegen:
+- Wie fühlt sich der erste Kontakt an?
 - Wie sicher und angenehm ist die Nutzung?
-- Wie kann man Hemmschwellen weiter abbauen?
+- Wie können Hemmschwellen weiter reduziert werden?
+
 ## 🛠️ Was kannst *du* konkret machen?
 
-MatchUp ist bewusst offen gestaltet. Als weiterführende Studierende kannst du zum Beispiel:
+MatchUp ist bewusst offen gestaltet und bietet klare Ansatzpunkte für Weiterentwicklung, zum Beispiel:
 
-- neue Nutzungsszenarien entwickeln (z. B. Events, Turniere, regelmäßige Treffen)
-- die Nutzerführung verbessern und vereinfachen
-- Funktionen ergänzen, die Gemeinschaft fördern
-- Barrieren abbauen (z. B. durch bessere Erklärungen oder Feedback)
-- das Projekt stärker in den Alltag integrieren
+- **Den Einstieg vereinfachen:** Noch klarer erklären, was passiert und was erwartet wird  
+- **Neue Zielgruppen erreichen:** etwa Anfänger:innen, internationale Studierende oder ältere Nutzer:innen  
+- **Soziale Sicherheit stärken:** klare Regeln, Feedback-Möglichkeiten oder bessere Transparenz bei Sessions  
+- **Alltagstauglichkeit erhöhen:** MatchUp so gestalten, dass es selbstverständlich genutzt wird  
 
-Du musst dabei **kein fertiges Produkt übernehmen**, sondern kannst aktiv entscheiden, wohin sich MatchUp entwickelt.
+Du übernimmst kein fertiges Produkt, sondern ein Projekt, bei dem du **mitentscheiden kannst, was wichtig ist**.
 
 ## 🌱 Warum dieses Projekt eine gute Basis ist
 
 MatchUp bietet:
-- ein klares Grundkonzept
+- ein verständliches Grundkonzept
 - eine funktionierende Plattform
-- Raum für Experimente und neue Ideen
-- genügend Struktur, um nicht bei null zu starten
+- reale Nutzungsszenarien
+- genug Struktur, um nicht bei null zu beginnen  
 
 Gleichzeitig ist nichts „in Stein gemeißelt“.  
-Das Projekt lebt davon, dass neue Studierende ihre eigenen Perspektiven, Interessen und Schwerpunkte einbringen.
+Das Projekt lebt davon, dass neue Studierende ihre Perspektiven, Ideen und Erfahrungen einbringen.
 
 ## ✨ Fazit
 
 Wenn du ein Projekt suchst, bei dem du:
 - **echten Nutzen schaffen**
 - **Menschen zusammenbringen**
-- **kreativ und eigenständig arbeiten**
-- und dabei sichtbar etwas bewegen kannst
+- **eigenständig gestalten**
+- und dabei etwas entwickeln kannst, das über das Studium hinaus Sinn ergibt
 
-dann ist **MatchUp** eine ideale Grundlage.
+dann ist **MatchUp** eine starke Grundlage.
 
-Die Frage ist nicht, *ob* man hier noch etwas machen kann –  
+Die entscheidende Frage ist nicht, *ob* man hier noch etwas verbessern kann –  
 sondern: **Was würdest du daraus machen?**
