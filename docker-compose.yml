@@ -1,13 +1,11 @@
 version: '3.8'
 
 services:
-  story-teller:
+  matchup-docs:
     build: .
-    container_name: story-teller
+    container_name: matchup-docs
     ports:
-      - "3000:3000"
-    volumes:
-      - ./stories:/app/stories
+      - "8082:8082"
     restart: unless-stopped
     environment:
-      - PORT=3000
+      - PORT=8082
