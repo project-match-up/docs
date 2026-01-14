@@ -10,6 +10,7 @@ export default defineConfig({
             {
                 text: 'Projektübersicht',
                 items: [
+                    { text: 'Pitch', link: '/overview/pitch' },
                     { text: 'Einführung', link: '/overview/introduction' }
                 ]
             },
