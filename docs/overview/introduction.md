@@ -9,7 +9,7 @@ Dieses Kapitel vermittelt ein grundlegendes Verständnis von **MatchUp** – wel
 Für viele Freizeitsportler:innen ist es schwierig, genug Mitspieler:innen für Sport und Spiel zu finden. Dies scheitert häufig an mehreren Faktoren:
 
 - **Mangel an Kontakten:** Wer neu in einer Stadt oder Community ist, hat oft nicht genug Leute im Umfeld, die für eine Session verfügbar wären
-- **kein Zugang zu Gruppenchats:** Gruppenchats sind zwar oft ein bewährtes Mittel, um sich für Sport zu verabreden, ist man allerdings in keiner Gruppe Mitglied, ist der Zugang zu diesen meist sehr schwer
+- **kein Zugang zu Gruppenchats:** Gruppenchats sind ein bewährtes und effektives Mittel um sich für Sport zu verabreden. Doch meistens bestehen sie aus einer Freundschaftsgruppe und als Neuling wird man schwierig Teil einer solchen Gruppe.
 - **Kein Überblick über Orte:** Viele wissen nicht, wo überall gespielt werden könnte. Ohne Übersicht über nahe Sportplätze oder öffentliche Spielflächen verpasst man Gelegenheiten
 
 **MatchUp** setzt genau hier an. Die Plattform schließt diese Lücke, indem sie das Finden von Mitspieler:innen **extrem vereinfacht**: Statt endloser Chats oder Foren genügen wenige Schritte – *„Karte öffnen → Session auswählen → Mitspielen“*. Ziel ist es, spontane Spielrunden zu erleichtern und dabei Sportbegeistere miteinander zu verbinden.

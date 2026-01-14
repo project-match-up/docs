@@ -84,7 +84,7 @@ Die Ansicht ist als überlagernde Detailansicht konzipiert und kann erweitert da
 </figure>
 
 ### Session-Erstellung
-Die Session-Erstellung ist eine eigenständige Ansicht zur Anlage neuer Spielrunden.
+Die Session-Erstellung ist eine eigenständige Ansicht zur Erstellung neuer Spielrunden.
 
 Hier werden erfasst:
 - Zeitpunkt der Session
