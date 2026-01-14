@@ -23,6 +23,7 @@ Mögliche Erweiterungen des Funktionsumfangs, die auf der bestehenden Architektu
   Automatisches Nachrücken bei freien Plätzen
 - Gerätekopplung  
   Übergang zwischen Bot und App über denselben Nutzerkontext
+- Simple Chat-Funktion, so dass man als Host feststellen kann, ob eine Spielanfrage ernst gemeint ist und um Details vor Spielbeginn austauschen zu können. 
 
 ## 🛠️ Technische Verbesserungen
 Optimierungen an Architektur, Codebasis und Betrieb.
